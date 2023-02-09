@@ -1,12 +1,25 @@
-# Mini-Project-Landing-Page
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code X
-THEN I find semantic HTML elements X
-WHEN I view the structure of the HTML elements X
-THEN I find that the elements follow a logical structure independent of styling and positioning X
-WHEN I view the icon and image elements 
-THEN I find accessible alt attributes
-WHEN I view the heading attributesX
-THEN they fall in sequential orderX
-WHEN I view the title elementX
-THEN I find a concise, descriptive titleX
+# Mini Project Landing Page - HTML, CSS, and Git: Code Refactor
+
+Create a codebase that follows accessibility standards and is SEO optimized
+
+
+## Description
+
+Refractored starter code to increase UX by doing the following:
+
+*Replaced div elements with semantic elemets to make the code easier to read and understand
+
+*Organzied the page elements to follow a logical structure
+
+*Added alt attributes to better assist those with screen readers
+
+*All headings folllow a sequential sequence 
+
+*Updated title page to better optimize search results
+
+## Credits
+N/A
+
+## License
+
+Please refer to the LICENSE in the repo.
